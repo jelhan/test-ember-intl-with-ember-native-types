@@ -10,5 +10,8 @@
       "test-ember-intl-with-ember-native-types/*": ["app/*"],
       "*": ["types/*"]
     }
+  },
+  "glint": {
+    "environment": "ember-loose"
   }
 }
